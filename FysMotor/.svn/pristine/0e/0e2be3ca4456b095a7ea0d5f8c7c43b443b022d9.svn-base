@@ -1,0 +1,10 @@
+﻿  Collision2D.cpp
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\veli-pekkaant\desktop\vittumoottoriv2\fysmotorv2\collision2d.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  FysMotorV2.vcxproj -> C:\Users\veli-pekkaant\Desktop\VittuMoottoriV2\Debug\FysMotorV2.exe
